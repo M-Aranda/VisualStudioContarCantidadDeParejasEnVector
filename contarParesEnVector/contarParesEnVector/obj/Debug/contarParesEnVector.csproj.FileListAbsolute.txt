@@ -1,0 +1,10 @@
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\bin\Debug\contarParesEnVector.exe.config
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\bin\Debug\contarParesEnVector.exe
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\bin\Debug\contarParesEnVector.pdb
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.csprojResolveAssemblyReference.cache
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.Form1.resources
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.Properties.Resources.resources
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.csproj.GenerateResource.Cache
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.csproj.CoreCompileInputs.cache
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.exe
+C:\Users\maranda\source\repos\contarParesEnVector\contarParesEnVector\obj\Debug\contarParesEnVector.pdb
